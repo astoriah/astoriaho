@@ -17,7 +17,7 @@
       "url": "https://www.pearsuite.com/",
       "startDate": "2023-01",
       "endDate": "2023-03",
-      "summary": "",
+      "summary": "Pear Suite is a care navigation platform that transforms social determinants of health data into actionable solutions and empowers community health workers.",
       "highlights": [
         " ", " "
       ]
@@ -28,7 +28,7 @@
       "url": "https://aarpinnovationlabs.org/",
       "startDate": "2021-02",
       "endDate": "2021-10",
-      "summary": "",
+      "summary": "AARP Innovation Labs's acceleration program provides age-tech startups with the opportunity to gain rapid insight into the market and tap into resources that AARP and its expertise can provide.",
       "highlights": [
         " ", " "
       ]
@@ -38,7 +38,7 @@
       "position": "Product Development Intern",
       "startDate": "2019-06",
       "endDate": "2020-10",
-      "summary": "",
+      "summary": "ReverCare was a YC-funded startup whose mission is to connect family caregivers with eldercare experts through an online platform.",
       "highlights": [
         " ", " "
       ]
@@ -49,9 +49,9 @@
       "url": "https://sparksc.org/",
       "startDate": "2019-05",
       "endDate": "2019-1",
-      "summary": "",
+      "summary": "The Startup Career Fair is an annual student-run event which invites startups to campus to recruit USC students for full-time and internship positions.",
       "highlights": [
-        " ", " "
+        "Led a group of 5 students to recruit startups, partner with USC career departments, and market the event on campus.", "Secured 53 startups to recruit at our career fair. And fundraised $6,700 from various USC departments."
       ]
     },
     {
@@ -62,36 +62,54 @@
       "endDate": "2019-05",
       "summary": "",
       "highlights": [
-        " ", " "
       ]
     }
   ],
   "projects": [
     {
-      "name": "Salesforce (INFO 2014: User Experience Research)",
+      "name": "Capstone Project (MIMS, UC Berkeley)",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": "",
+      "summary": "Our project, The Hidden Emissions of Electric Vehicles, examines the sustainability of zero emissions vehicles and highlights barriers to EV adoption and use in California. Through an interactive website and vehicle emissions tool, called Emissions Explorer, we break down how and why EVs still emit, and let people explore how different factors – charging location, vehicle type, and mileage – all impact emissions.",
       "highlights": [
-        " ", " "
+        "Dr. James R. Chen Award Winner", "Advised by Professor Marti Hearst"
+      ]
+    },
+    {
+      "name": "Salesforce (INFO 214: User Experience Research)",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "With our client Salesforce, our goal was to understand how prevalent digital contract adoption is, what other alternatives organizations currently employ, and what challenges need to be addressed.",
+      "highlights": [
+        "Conducted two rounds of semi-structured interviews and talk-throughs with managers working for a North American based company.", "Led a team of 3 UX researchers to ensure needs of the client were met and spearheaded discussions on best user research methodologies to deploy."
+      ]
+    },
+    {
+      "name": "Final Project (INFO 247: Information Visualization and Presentation)",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "This project is a narrative about outdoor ambient air pollution, its global health consquences, and how individuals' can protect themselves, using data visualization.",
+      "highlights": [
+        "Advised by Professor Marti Hearst"
       ]
     },
     {
       "name": "Substantial Classrooms (INFO 290: Product Design Studio)",
       "startDate": "2021",
       "endDate": "2021",
-      "summary": "",
+      "summary": 
+      "Substantial is a national nonprofit on a mission to unlock the potential of substitute teaching.",
       "highlights": [
-        " ", " "
+        "Led a team of 3 designers through the end-to-end development of a self-service customer technical support webite.", "Provided the client a channel to communicate and offer resources to their users for the first time."
       ]
     },
     {
       "name": "Morrow (INFO 290: Product Design Studio)",
       "startDate": "2021",
       "endDate": "2021",
-      "summary": "",
+      "summary": "Morrow is a startup focused on helping middle aged adults with financial retirement planning.",
       "highlights": [
-        " ", " "
+        "Conducted UX review of their existing MVP and ideated new design solutions to meet their design goals.", "Presented hi-fidelity designs to the Morrow product team."
       ]
     }
   ],
@@ -139,11 +157,14 @@
   "certificates": [],
   "publications": [],
   "skills": [
+    {"name": "Design: UX Research, Wireframing, Prototyping, Interface design, UX writing, Figma, HTML/CSS/JS"},
+    {"name": "Data Analysis: Python, R, D3, Observable, Information visualization, Storytelling"},
+    {"name": "Product: Competitive analysis, Product strategy, A/B testing, Agile, Design thinking"}
 
   ],
   "languages": [],
   "interests": [
-
+    {"name": "Hiking, Baking, Gardening"}
   ],
   "references": []
 }

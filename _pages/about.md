@@ -23,4 +23,4 @@ I learned that I love design, talking to users, and helping startups grow their 
 
 At `UC Berkeley`, I continued to work with both small and large companies through client project work. I led a team to better understand Salesforce's positioning on digital contracts. And I engaged with several more age-tech startups on developing their product & product management strategies.    
 
-See more about my client projects on my [Work page](/work/)!
+See more about my work **[here](/work/)**!

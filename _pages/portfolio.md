@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Portfolio
+permalink: /portfolio/
 description: Astoria's portfolio of projects from work, client work, and school.
 nav: true
-nav_order: 2
-display_categories: [Age Tech, Product Development]
+nav_order: 3
+display_categories: [Design]
 horizontal: false
 ---
 
