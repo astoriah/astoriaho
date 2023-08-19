@@ -68,20 +68,20 @@ This project is a narrative about outdoor ambient air pollution, its global heal
 
 <div class="row justify-content-sm-center mt-4">
     <div class="col-sm-4 mt-3 mt-md-0 text-center">
-
-        <strong>DRAFT SHOWING PM AS PARTICLES IN THE AIR</strong>
-
         {% include figure.html path="assets/img/infoviz/ogdesign1.png" title="" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+        Draft showing PM as air particles
+        </div>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0 text-center">
-
-        <strong>FINAL VISUALIZATION MAPPING PM 2.5 CONCENTRATIONS TO A WORLD MAP</strong>
-
+        <strong></strong>
         {% include figure.html path="assets/img/infoviz/brushing.png" title="example image" class="img-fluid rounded z-depth-1" %}
-        
+        <div class="caption">
+        Final visualization mapping PM 2.5 concentrations to the world map
+        </div>
     </div>
 </div>
-<div class="row justify-content-sm-center mt-4">
+<div class="row justify-content-sm-center mt-">
     <div class="col-sm-4 mt-3 mt-md-0">
         <p>❌ This a poor design because the size of the dots is not proportionate to the size of the particles in real life. <br> It does not represent the information honestly because of the distorted sizes. </p>
     </div>

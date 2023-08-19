@@ -17,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a recent graduate student from [UC Berkeley's MIMS program](https://www.ischool.berkeley.edu/programs/mims). 
 
-When I studied gerontology at `USC`, I became passionate about developing aging-technology. I worked for a startup whose goal was to connect family caregivers with eldercare experts as a product design intern. And then worked for AARP's Innovation Labs, as a product design consultant for their portfolio startups. 
+When I studied gerontology at `USC`, I became passionate about developing aging-technology. I worked for a startup whose goal was to connect family caregivers with eldercare experts as a product design intern. And then worked for AARP's Innovation Labs, as a product development intern for their portfolio startups. 
 
 I learned that I love design, talking to users, and helping startups grow their product and customer base. 
 
-At `UC Berkeley`, I continued to work with both small and large companies through client project work. I led a team to better understand Salesforce's positioning on digital contracts. And I engaged with several more age-tech startups on developing their product & product management strategies.    
+At `UC Berkeley`, I continued to work with both small and large companies through client project work. I led a team to better understand Salesforce's positioning on digital contracts and led a design team to create Substantial Classroom's first customer technical support website. I also engaged with several more age-tech startups on developing their product & product management strategies.    
 
-See more about my work **[here](/work/)**!
+See more about my work **[here](/resume/)**!
